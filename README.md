@@ -9,10 +9,9 @@ We might be able to use this for quick and easy
 
 ## Math Functions
 
-### Add
+### Add()
+This function takes in two integers and will perform the proper operation and then will return the result.
 ```c
-// This function takes in two integers and will perform the proper operation
-// and then will return the result.
 int Math(int num1, int num2, char operator);
 ```
 
